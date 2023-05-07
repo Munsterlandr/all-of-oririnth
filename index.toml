@@ -248,6 +248,11 @@ hash = "6f29f7079f153a7fc75a9889c543c2f2776c3af74db01d5649ff775a2c752e21"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "501ff454bff14d1c8b424440244859039059e4f99bca1d2dd3284a57caeddc47"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "c786450950406a2a5948e2aff539029f55d25dc4f75b2abb8e2e507f32d97422"
 metafile = true
