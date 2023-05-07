@@ -28,23 +28,8 @@ hash = "47c61240dee49780cf0021b149b3a10ec49a68f75dbfd4d39250fa3ea3eaced0"
 metafile = true
 
 [[files]]
-file = "mods/bclib.pw.toml"
-hash = "54a0370e2dc8dcc5fe8761745e277aa42fc6f52b3447e5c8ed9d99307456b949"
-metafile = true
-
-[[files]]
-file = "mods/betterend.pw.toml"
-hash = "2dce2a0d941a163f3295e56646d5fd10b362cb8bd00f2fc10c18794ec5ab6cb3"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "bec4f53c12b6d88354fa76acf606b9904d4a6b277fc2a823ce50977ec43f31e3"
-metafile = true
-
-[[files]]
-file = "mods/betternether.pw.toml"
-hash = "3316c1bc5aeffa573020cf47a7d640913678de9a9f81bdeb208a5b591d6f95db"
 metafile = true
 
 [[files]]
@@ -334,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "006e33cbedaa7df192da9abb7d7a54ee06476286686a03778d7f9349bf9daee4"
+hash = "88df942421ca8f2aac2df9561a506c86986e856accc0fc3b1485500a34ebf44b"
 metafile = true
 
 [[files]]
@@ -355,6 +340,11 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "caa69ab8793e694e64c9b08298dfe58d93d88f470eed9cf8a3779258180c5cc7"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "5646233183defbb1c0f2589b00d330faf8272fdb5dd8d59d0bd3f67cbf498721"
 metafile = true
 
 [[files]]
