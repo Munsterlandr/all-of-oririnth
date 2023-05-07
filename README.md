@@ -29,8 +29,6 @@ Of course, I'm focusing on multiplayer with this. Some of these mods include:
 
 ### World Gen
 Though this is quite the divergence from the Vanilla Plus Ideals of the original pack, world gen is cool and is real nice with flying origins. Some of my picks include:
-* Better Nether
-* Better End
 * Promenade
 * Cinderscapes
 * All of YUNG's things
