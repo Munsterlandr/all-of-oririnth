@@ -1,0 +1,14 @@
+name = "EMI"
+filename = "emi-0.7.3+1.19.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/lnPekvZX/emi-0.7.3%2B1.19.3.jar"
+hash-format = "sha512"
+hash = "03ffbaa82e7e598d9d67341ad4eec7d060bf4cf21d641b096ad7ddc710a42d7f7b31085e4bb28ad8d6f87df3fed2484472808a97cd806acd4915feff37b17b98"
+
+[update]
+[update.modrinth]
+mod-id = "fRiHVvU7"
+version = "lnPekvZX"

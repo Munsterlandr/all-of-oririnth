@@ -1,0 +1,14 @@
+name = "way2wayfabric"
+filename = "way2wayfabric-0.0.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/lO0vzQUy/versions/Ov9hKbmx/way2wayfabric-0.0.4.jar"
+hash-format = "sha512"
+hash = "2da6eb4e260e43c55001636d22055e656290be96b78d8e2cb46df34fca969aa41e3e14cf81d77f0b40cefae116a0109dc3df917de7e2f0fa249216ea8cb6acc9"
+
+[update]
+[update.modrinth]
+mod-id = "lO0vzQUy"
+version = "Ov9hKbmx"

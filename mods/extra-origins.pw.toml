@@ -1,0 +1,14 @@
+name = "Extra Origins"
+filename = "extraorigins-1.19-4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/XWEESDPe/versions/YOOUmEcz/extraorigins-1.19-4.jar"
+hash-format = "sha512"
+hash = "86118c7df820ea7b350117749df406741014fde28b5dc0a131c0d0bf38fcccf8e962376faed670723d359ec09d9c80d2a4e6312b89822210b7d333cbd57be79f"
+
+[update]
+[update.modrinth]
+mod-id = "XWEESDPe"
+version = "YOOUmEcz"

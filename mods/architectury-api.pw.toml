@@ -1,0 +1,14 @@
+name = "Architectury API"
+filename = "architectury-7.1.81-fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/NtVaa36c/architectury-7.1.81-fabric.jar"
+hash-format = "sha512"
+hash = "3004b6646446c5e07f7b8a7c4c7b277d92d9c05241f37b4baacf34a2aa03a236cdcd684d009c24aa9de0f5ba9d9ad4dae8da7c5eed263ac432fa729c1bf2819b"
+
+[update]
+[update.modrinth]
+mod-id = "lhGA9TYQ"
+version = "NtVaa36c"

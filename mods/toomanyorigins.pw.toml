@@ -1,0 +1,14 @@
+name = "TooManyOrigins"
+filename = "TooManyOrigins-0.7.3+1.19.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/xDjN28OB/versions/NEKMbu1T/TooManyOrigins-0.7.3%2B1.19.3.jar"
+hash-format = "sha512"
+hash = "06e469f93ace3b0b33fb254e9c0d591219d3ecbbda40b3799576ab79cb3f29612bebf5df2c2b86ef7baa27aeafc7037983f65e8f5a963e9afe8af2bc84c194a4"
+
+[update]
+[update.modrinth]
+mod-id = "xDjN28OB"
+version = "NEKMbu1T"

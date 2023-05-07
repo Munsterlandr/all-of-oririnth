@@ -1,0 +1,14 @@
+name = "Origins: Extra Classes"
+filename = "Extra-classes-1.3.3-1.19.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/viFMZUQm/versions/jKc5haZn/Extra-classes-1.3.3-1.19.jar"
+hash-format = "sha512"
+hash = "22aa4125c4240099f440670f543dd83b9ba92cf402b9379f2c814aa283e45e4ea64fd2c0dbdd792911bd12e6889b50837bf81e47f5a09b5c0c1b675a9da400ae"
+
+[update]
+[update.modrinth]
+mod-id = "viFMZUQm"
+version = "jKc5haZn"

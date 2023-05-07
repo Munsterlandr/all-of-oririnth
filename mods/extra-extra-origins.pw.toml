@@ -1,0 +1,14 @@
+name = "Extra-Extra Origins"
+filename = "origins_thing1.5.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Zt9J82LC/versions/QNDt0cdN/origins_thing1.5.jar"
+hash-format = "sha512"
+hash = "6d7f30b5bf32c4be259444eed42f6c5cabe626335872e84159ad0dae6dc280ff0026b1496bbc425d6b0014cbd321399fd733a3511a7978cc6f8b25e908f7e21d"
+
+[update]
+[update.modrinth]
+mod-id = "Zt9J82LC"
+version = "QNDt0cdN"

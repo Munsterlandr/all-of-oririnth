@@ -1,0 +1,14 @@
+name = "Origins+"
+filename = "origins-plus-1.19.3-0.1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/pN5hiahr/versions/cVO0AIIv/origins-plus-1.19.3-0.1.0.jar"
+hash-format = "sha512"
+hash = "349083b92c7912d4a039e7e5117e29113a220931129993a5d75f384db8d9327d1a5771380c3755577df0feb8fbd4440034cdfef3a90a871b52d9a03781cd0b20"
+
+[update]
+[update.modrinth]
+mod-id = "pN5hiahr"
+version = "cVO0AIIv"

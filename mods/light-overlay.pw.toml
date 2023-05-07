@@ -1,0 +1,14 @@
+name = "Light Overlay"
+filename = "light-overlay-7.0.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/YfOlc91N/versions/IqHeaKqA/light-overlay-7.0.2.jar"
+hash-format = "sha512"
+hash = "2d0099c17991b2d3f81911dc62cf22a37eaa750c71736671d7218525eae29fc736841500acef7f7bb5c86e00c0bda30fccaba202f48171e0df2b44e22731f77c"
+
+[update]
+[update.modrinth]
+mod-id = "YfOlc91N"
+version = "IqHeaKqA"
