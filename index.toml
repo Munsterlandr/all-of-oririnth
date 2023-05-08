@@ -6,7 +6,7 @@ hash = "8abc7efdf4ba62fe06f67a18aaba89d656af7ae1756d6700f6b2e8d3fd4e1070"
 
 [[files]]
 file = "README.md"
-hash = "40aa735ebd1f45ba71c9b7a404d28a9d2bf02761387be96101a4abafd084acb4"
+hash = "e7cbac584d84dcd03afe19f8521d509273ea5d0f45996a4b3b3a1938c5279d01"
 
 [[files]]
 file = "config/gravestones.json"
@@ -145,6 +145,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "2d1231f9407be59d04e018dfd2f26f004ff8716296866ef2287043268004ed92"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "56a6f37415571964b0dc3fef1096bcbec3ccf525982cff9835f84396e81f222a"
 metafile = true
 
 [[files]]
