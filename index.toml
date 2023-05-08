@@ -118,6 +118,11 @@ hash = "451138b92bcb7475e73938d9d2ba2139277fd0675ba83b4a7d375588b8e58ee7"
 metafile = true
 
 [[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "45146b4eada52ea19768bd0348e3d9e3db9a1529a4b992bf9bdf822f17b17f1e"
+metafile = true
+
+[[files]]
 file = "mods/extra-extra-origins.pw.toml"
 hash = "80586b367b1343346e6111194b7347ad6003d383477e14e839a690839ab62f1e"
 metafile = true
@@ -155,11 +160,6 @@ metafile = true
 [[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "e08134cb8cad34b1b33efec126180a5b9dd8c5515c5b6b797717e05f3c3e4809"
-metafile = true
-
-[[files]]
-file = "mods/gravestones.pw.toml"
-hash = "d2f07f5d668c36a0acbdb571a275b0eb1e35f274ede30c5155544d546f7e38c3"
 metafile = true
 
 [[files]]
@@ -405,6 +405,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "c0cc3599510c50e25124eb09c56bbf96e56f9de11b59c5e4a1a07bead96734f1"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "954b7457b6bb1d34eb8457dc50e52255ea60d41c01afd9c823cd92f952cdf566"
 metafile = true
 
 [[files]]

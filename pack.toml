@@ -1,12 +1,12 @@
 name = "All of Ori-rinth"
 author = "Munsterlandr"
-version = "1.1.1"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b694078cba20add7d670c4fc80001c2f8004f2345286938e50643dc03d23a415"
+hash = "222a50f7cc749ab557fa4823beb350d9591dfd3f3c027e51b07b689ce99a8e56"
 
 [versions]
 minecraft = "1.19.3"
