@@ -358,11 +358,6 @@ hash = "5646233183defbb1c0f2589b00d330faf8272fdb5dd8d59d0bd3f67cbf498721"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "f8a823cf2f79725535abae190dc48871869590591556c4c8d7446d8a15fd0d52"
-metafile = true
-
-[[files]]
 file = "mods/terrestria.pw.toml"
 hash = "39fbd4898d24f168b54c46e6ad049ae2971a785e7dcde95114cb4ececeb525c0"
 metafile = true
@@ -400,11 +395,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "3ced6e0f0c70ea4fb2f3f9301a44cc7f479f24c78de56e8131f81056375c59a7"
-metafile = true
-
-[[files]]
-file = "mods/xxl-packets.pw.toml"
-hash = "432f727ad1befbbf81caf36b9a3627ab14b5bc5e41380b7e2449a44c5e9034f4"
 metafile = true
 
 [[files]]
