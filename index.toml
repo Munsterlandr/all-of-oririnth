@@ -48,6 +48,11 @@ hash = "37f893b32c0348f87a5524be13749b2395a0ba505d0d0c5e1498f12a46ebb345"
 metafile = true
 
 [[files]]
+file = "mods/chisels-bits-for-fabric.pw.toml"
+hash = "057c208c2ffaf10ae15140c7402796673c0f7dee6a15fa3c8fc8ff3b0e721a14"
+metafile = true
+
+[[files]]
 file = "mods/cinderscapes.pw.toml"
 hash = "3461be383c71fbe5281ddc1d648551e2d22992a8eba9485e5a9227a93c28dbf6"
 metafile = true
